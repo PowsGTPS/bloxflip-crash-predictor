@@ -46,4 +46,4 @@ async def crash(interaction):
     em.add_field(name="` ⭐ ` Credits", value="> bleed#5555", inline=False)
     await interaction.response.send_message(embed=em)
 
-bot.run("yourtoken")
+bot.run("MTIwMDgxMzAzMjQyMzU3NTY4Mw.GHwrUw.ATlDGSOHMlmowIVkpNSBlju_o1Tjj2qGO8kDws")
